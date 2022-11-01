@@ -1,6 +1,5 @@
 # CarRacingTD3
-I am still working on this project...
-for temporary documentation: 
+I am still working on this project... Temporary documentation: 
 
 [Mastering CarRacing-v0 and Snake Game using Off-Policy Deep.pptx](https://github.com/mutlufurkan07/CarRacingTD3/files/9913855/Mastering.CarRacing-v0.and.Snake.Game.using.Off-Policy.Deep.pptx)
 
